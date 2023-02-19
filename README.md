@@ -1,5 +1,5 @@
 WGU C195 - Class Project for Software II: Advanced Java Concepts
-Written in Java/JavaFX for a pre-existing MySQL database. Submitted April 11, 2021.
+Written in Java/JavaFX for a pre-existing MySQL database. Sub
 
 Purpose
 This application is a demonstration desktop client for managing customers and for scheduling appointments between customers and contacts at a company. It is a Java client of a fixed-schema MySQL database written in accordance with the requirements of the Software II C195 task.
